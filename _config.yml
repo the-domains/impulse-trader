@@ -1,0 +1,28 @@
+name: Impulse Trader
+favicon: null
+layout_spectrum: 0.4613990921061486
+typography_spectrum: 0.08778515667654574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.869101668940857
+  lightness: 0.804264749167487
+  saturation: 0.05147358379326761
+  rhythmicContrast: 0.18743509473279119
+purpose: []
